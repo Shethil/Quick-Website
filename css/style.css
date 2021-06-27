@@ -191,18 +191,18 @@ margin: 0 auto;
 		padding: 50px 0;
 	}
 	.s_wrapper{
-
+		overflow: hidden;
 	}
 
 	.s_single{
-	float: left;
-    width: 27%;
-    /*border: 1px solid blue;*/
-    padding: 50px 24px;
-    margin-right: 27.9px;
+    float: left;
+    width: 26%;
+    border: 1px solid blue;
+    padding: 50px 2%;
+    margin-right: 3%;
 	}	
 
-	.s_single: last-child{
+	.s_single:last-child{
 		margin-right: 0;
 	}
 
@@ -216,6 +216,7 @@ margin: 0 auto;
 
 	.blue{
 		background-color: #FFF7E8;
+
 	}
 	.s_img{
 		/*border: 1px solid;*/
